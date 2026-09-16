@@ -10,7 +10,7 @@ I'm a Computer Science student at Rutgers University–New Brunswick interested 
 
 ### Languages & Technologies
 
-C • C++ • Java • JavaScript • Python • SQL • Node.js • Git
+C • C++ • Java • JavaScript • TypeScript • Python • Go • SQL • Node.js • Git
 
 ### Featured Projects
 
